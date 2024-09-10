@@ -1,9 +1,0 @@
-Package: com.aw.newstate
-Name: aw
-Depends: mobilesubstrate
-Description: hax
-Maintainer: 00PRZEJEBANEE
-Author: 00PRZEJEBANEE
-Architecture: iphoneos-arm64
-Version: 0.9.67
-Installed-Size: 10112
